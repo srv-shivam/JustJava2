@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity_name">Quantity</string>
+    <string name="quantity_number">0</string>
+    <string name="order">order</string>
+    <string name="price_tag_text_view">Price</string>
+    <string name="price">₹ 0</string>
+    <string name="increment_button">+</string>
+    <string name="decrement_button">-</string>
+    <string name="reset_button">Reset</string>
+    <string name="thanksmsg"> </string>
+    <string name="welcome_logo_text_view">Welcome! To Just Java Coffee App</string>
+</resources>
